@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-  Automatic Room Lights System using Arduino is a very useful project as you need not worry about turning on and off the         switches every time you want to turn on the lights . In fact, the Automatic Room Lights project can be considered as one       major application of the PIR Sensor. 
+  Automatic Room Lights System using Arduino is a very useful project as you need not to worry about turning on and off the         switches every time you want to turn on the lights . In fact, the Automatic Room Lights project can be considered as one       major application of the PIR Sensor. 
 
 ## COMPONENTS USED
 
